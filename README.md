@@ -1,13 +1,13 @@
-# 🚀 Task 5 – Kubernetes with Minikube
+# Task 5 – Kubernetes with Minikube
 
 Just wanted to get my hands dirty with Kubernetes basics. Here's what I did.
 
-## 🛠 Tools
+## Tools
 - Minikube
 - kubectl
 - Docker
 
-## ✅ What I Did
+## What I Did
 - Installed Minikube and started the cluster.
 - Wrote a simple Node.js app and built a Docker image inside Minikube.
 - Created `deployment.yaml` to deploy the app.
@@ -16,5 +16,5 @@ Just wanted to get my hands dirty with Kubernetes basics. Here's what I did.
 - Scaled the app using `kubectl scale`.
 - Used `kubectl logs` and `describe` for debugging.
 
-## 🎯 Outcome
+## Outcome
 Got a solid feel for how Kubernetes deployments, services, and scaling work. Everything ran locally inside Minikube.
